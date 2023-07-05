@@ -1,5 +1,7 @@
-import { Component } from "react";
-import { Row, Col, Button, Form } from "react-bootstrap";
+import { Component } from 'react';
+import {
+  Row, Col, Button, Form,
+} from 'react-bootstrap';
 
 class Calculator extends Component {
   constructor(props) {
