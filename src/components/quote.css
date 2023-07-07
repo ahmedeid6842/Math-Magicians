@@ -1,0 +1,9 @@
+.quote-title {
+  display: inline;
+}
+
+.quote-body {
+  display: inline;
+  margin-left: 10px;
+  font-size: 1.5rem;
+}

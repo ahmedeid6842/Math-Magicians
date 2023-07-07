@@ -1,7 +1,13 @@
 import Calculator from './components/calculator';
+import QuoteDisplay from './components/quote';
 
 function App() {
-  return <Calculator />;
+  return (
+    <div>
+      <Calculator />
+      <QuoteDisplay />
+    </div>
+  );
 }
 
 export default App;

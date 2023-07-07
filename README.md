@@ -46,6 +46,7 @@
 - **Good HTML, CSS and JS practices**
 - **Using React to build SPA**
 - **Added the Calculator Component**
+- **Added the Quote Component**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
