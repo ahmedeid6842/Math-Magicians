@@ -1,9 +1,9 @@
 .quote-title {
-  display: inline-block;
+  display: inline;
 }
 
 .quote-body {
-  display: inline-block;
+  display: inline;
   margin-left: 10px;
   font-size: 1.5rem;
 }
