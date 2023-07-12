@@ -1,11 +1,11 @@
 :root {
   --bg-primary: #2c3e50;
   --bg-secondary: #34495e;
-  --white-clr: #ffffff;
+  --white-clr: #fff;
   --gray-clr: #bdc3c7;
   --border-clr: #7f8c8d;
   --font-primary-clr: #ff69b4;
-  --font-secondary-crl: #00ffff;
+  --font-secondary-crl: #0ff;
 }
 
 * {

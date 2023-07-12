@@ -1,11 +1,11 @@
 .quote-container {
   margin-top: 15rem;
   display: flex;
-  flex-direction: column ;
+  flex-direction: column;
 }
 
 .quote-body i,
-.quote-body{
+.quote-body {
   font-size: 4rem;
   color: var(--font-primary-clr);
   text-align: center;
