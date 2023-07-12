@@ -14,6 +14,7 @@ function App() {
       </header>
       <main>
         <Routes>
+          <Route path="/" element={<Home />} />
           <Route path="/home" element={<Home />} />
           <Route path="/calculator" element={<Calculator />} />
           <Route path="/quote" element={<QuoteDisplay />} />
