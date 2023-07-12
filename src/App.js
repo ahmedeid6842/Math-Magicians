@@ -14,6 +14,7 @@ function App() {
       </header>
       <main>
         <Routes>
+          <Route path="/" element={<Home />} />
           <Route path="/Math-Magicians/" element={<Home />} />
           <Route path="/Math-Magicians/home" element={<Home />} />
           <Route path="/Math-Magicians/calculator" element={<Calculator />} />
