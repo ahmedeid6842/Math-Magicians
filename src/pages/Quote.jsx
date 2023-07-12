@@ -47,15 +47,19 @@ function QuoteDisplay() {
   }
 
   return (
-    <div>
-      <h2 className="quote-title">Quote of the day:</h2>
+    <div className="quote-container">
       <p className="quote-body">
         &ldquo;
         <i>{quote}</i>
-        &rdquo; -
+        &rdquo;
+      </p>
+      <span>
+        -
         {' '}
         {author}
-      </p>
+        {' '}
+        -
+      </span>
     </div>
   );
 }
