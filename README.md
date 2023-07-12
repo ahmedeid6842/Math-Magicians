@@ -13,6 +13,7 @@
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
+  - [Test](#test)
   - [Usage](#usage)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -90,6 +91,13 @@ Install this project with:
  ```bash
  npm install
 ```
+### Test
+
+To test the App run:
+
+ ```bash
+ npm test
+```
 
 ### Usage
 
@@ -107,6 +115,17 @@ To run this project and open the Math Magicians run the following command :
 - GitHub: [ahmedeid6842](https://github.com/ahmedeid6842)
 - Twitter: [@ahmedeid2684](https://twitter.com/ahmedeid2684)
 - LinkedIn: [Ahmed Eid](https://www.linkedin.com/in/ahmed-eid-0018571b1/)
+
+👤 **Ruth Abreu**
+
+- GitHub: [@Ruthmy](https://github.com/Ruthmy)
+- Twitter: [@rury_exe](https://twitter.com/rury_exe)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ruth-abreu)
+
+👤 **Sergio Andres**
+- GitHub: [sergio-usma](https://github.com/sergio-usma)
+- Twitter: [@VonUsma](https://twitter.com/VonUsma)
+- LinkedIn: [Sergio Andres Usma](https://www.linkedin.com/in/sergiousma/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
