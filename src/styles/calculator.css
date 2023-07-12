@@ -1,0 +1,17 @@
+.calculator-container {
+  width: 100vw;
+  min-height: 90vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.calculator-container h2 {
+  font-size: 2.5rem;
+  margin-top: 14rem;
+  align-self: flex-start;
+}
+
+.calculator-component {
+  width: 70%;
+}
