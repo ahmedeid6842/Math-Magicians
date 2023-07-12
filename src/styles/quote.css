@@ -1,9 +1,14 @@
 .quote-container {
-  margin-top: 20rem;
+  margin-top: 15rem;
+  display: flex;
+  flex-direction: column ;
 }
 
-.quote-body {
+.quote-body i,
+.quote-body{
   font-size: 4rem;
+  color: var(--font-primary-clr);
+  text-align: center;
 }
 
 .quote-container span {
@@ -11,4 +16,5 @@
   text-align: center;
   margin: 5rem;
   font-size: 2rem;
+  color: var(--font-secondary-crl);
 }
