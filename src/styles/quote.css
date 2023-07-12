@@ -1,0 +1,20 @@
+.quote-container {
+  margin-top: 15rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.quote-body i,
+.quote-body {
+  font-size: 4rem;
+  color: var(--font-primary-clr);
+  text-align: center;
+}
+
+.quote-container span {
+  display: block;
+  text-align: center;
+  margin: 5rem;
+  font-size: 2rem;
+  color: var(--font-secondary-crl);
+}

@@ -1,0 +1,21 @@
+:root {
+  --bg-primary: #2c3e50;
+  --bg-secondary: #34495e;
+  --white-clr: #fff;
+  --gray-clr: #bdc3c7;
+  --border-clr: #7f8c8d;
+  --font-primary-clr: #ff69b4;
+  --font-secondary-crl: #0ff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  color: var(--white-clr);
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 25px;
+  background-color: var(--bg-primary);
+}

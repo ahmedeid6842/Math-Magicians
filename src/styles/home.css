@@ -1,0 +1,14 @@
+.home-container {
+  margin-top: 6rem;
+}
+
+.home-container h2 {
+  font-size: 3rem;
+  color: var(--font-primary-clr);
+}
+
+.home-container p {
+  margin: 4rem 0;
+  text-align: justify;
+  color: var(--font-secondary-crl);
+}
