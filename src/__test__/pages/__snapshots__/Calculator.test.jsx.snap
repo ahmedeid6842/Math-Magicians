@@ -1,0 +1,243 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CalculatorPage renders correctly 1`] = `
+<section
+  class=" container calculator-container"
+>
+  <h2>
+     Let's do some math ! 
+  </h2>
+  <div
+    class="calculator-component"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="m-3 row"
+      >
+        <div
+          class="col"
+        >
+          <input
+            class="bg-secondary text-right form-control form-control-lg"
+            dir="rtl"
+            readonly=""
+            value="  "
+          />
+        </div>
+      </div>
+      <div
+        class="m-3 row"
+      >
+        <div
+          class="col"
+        >
+          <button
+            class="w-100 p-4 border-secondary btn btn-light"
+            type="button"
+          >
+            AC
+          </button>
+        </div>
+        <div
+          class="col"
+        >
+          <button
+            class="w-100 p-4 border-secondary btn btn-light"
+            type="button"
+          >
+            +/-
+          </button>
+        </div>
+        <div
+          class="col"
+        >
+          <button
+            class="w-100 p-4 border-secondary btn btn-light"
+            type="button"
+          >
+            %
+          </button>
+        </div>
+        <div
+          class="col"
+        >
+          <button
+            class="w-100 p-4 border-secondary btn btn-warning"
+            type="button"
+          >
+            ÷
+          </button>
+        </div>
+      </div>
+      <div
+        class="m-3 row"
+      >
+        <div
+          class="col"
+        >
+          <button
+            class="w-100 p-4 border-secondary btn btn-light"
+            type="button"
+          >
+            7
+          </button>
+        </div>
+        <div
+          class="col"
+        >
+          <button
+            class="w-100 p-4 border-secondary btn btn-light"
+            type="button"
+          >
+            8
+          </button>
+        </div>
+        <div
+          class="col"
+        >
+          <button
+            class="w-100 p-4 border-secondary btn btn-light"
+            type="button"
+          >
+            9
+          </button>
+        </div>
+        <div
+          class="col"
+        >
+          <button
+            class="w-100 p-4 border-secondary btn btn-warning"
+            type="button"
+          >
+            x
+          </button>
+        </div>
+      </div>
+      <div
+        class="m-3 row"
+      >
+        <div
+          class="col"
+        >
+          <button
+            class="w-100 p-4 border-secondary btn btn-light"
+            type="button"
+          >
+            4
+          </button>
+        </div>
+        <div
+          class="col"
+        >
+          <button
+            class="w-100 p-4 border-secondary btn btn-light"
+            type="button"
+          >
+            5
+          </button>
+        </div>
+        <div
+          class="col"
+        >
+          <button
+            class="w-100 p-4 border-secondary btn btn-light"
+            type="button"
+          >
+            6
+          </button>
+        </div>
+        <div
+          class="col"
+        >
+          <button
+            class="w-100 p-4 border-secondary btn btn-warning"
+            type="button"
+          >
+            -
+          </button>
+        </div>
+      </div>
+      <div
+        class="m-3 row"
+      >
+        <div
+          class="col"
+        >
+          <button
+            class="w-100 p-4 border-secondary btn btn-light"
+            type="button"
+          >
+            1
+          </button>
+        </div>
+        <div
+          class="col"
+        >
+          <button
+            class="w-100 p-4 border-secondary btn btn-light"
+            type="button"
+          >
+            2
+          </button>
+        </div>
+        <div
+          class="col"
+        >
+          <button
+            class="w-100 p-4 border-secondary btn btn-light"
+            type="button"
+          >
+            3
+          </button>
+        </div>
+        <div
+          class="col"
+        >
+          <button
+            class="w-100 p-4 border-secondary btn btn-warning"
+            type="button"
+          >
+            +
+          </button>
+        </div>
+      </div>
+      <div
+        class="m-3 row"
+      >
+        <div
+          class="col-6"
+        >
+          <button
+            class="w-100 p-4 border-secondary btn btn-light"
+            type="button"
+          >
+            0
+          </button>
+        </div>
+        <div
+          class="col"
+        >
+          <button
+            class="w-100 p-4 border-secondary btn btn-light"
+            type="button"
+          >
+            .
+          </button>
+        </div>
+        <div
+          class="col"
+        >
+          <button
+            class="w-100 p-4 border-secondary btn btn-warning"
+            type="button"
+          >
+            =
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+`;
